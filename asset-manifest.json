@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ucakbileti/static/css/main.7d94a875.css",
+    "main.js": "/ucakbileti/static/js/main.801de1b6.js",
+    "static/js/453.4e2b4760.chunk.js": "/ucakbileti/static/js/453.4e2b4760.chunk.js",
+    "index.html": "/ucakbileti/index.html",
+    "main.7d94a875.css.map": "/ucakbileti/static/css/main.7d94a875.css.map",
+    "main.801de1b6.js.map": "/ucakbileti/static/js/main.801de1b6.js.map",
+    "453.4e2b4760.chunk.js.map": "/ucakbileti/static/js/453.4e2b4760.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d94a875.css",
+    "static/js/main.801de1b6.js"
+  ]
+}
